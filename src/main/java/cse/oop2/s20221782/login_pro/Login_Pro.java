@@ -17,7 +17,7 @@ private JTextField nameField;
 
     public Login_Pro() {
         // JFrame 설정
-        setTitle("호텔 로그인 시스템");
+        setTitle("호텔 로그인 시스");
         setSize(300, 130);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null); // 화면 중앙에 위치
